@@ -13,3 +13,5 @@ router.post("/imageSizeReducer", imageSizeReducer);
 
 //export
 module.exports = router;
+
+//This if file upload using cloudinary
